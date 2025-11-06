@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhanush-business/Friendix-ai/logo.png" alt="Friendix.ai Logo" width="120"/>
+  <img src="./logo.png" alt="Friendix.ai Logo" width="120">
 </p>
 
 <h1 align="center">Friendix.ai</h1>
@@ -13,7 +13,7 @@
 Friendix.ai is an intelligent, emotion-aware companion designed to connect, comfort, and communicate with people in a more human way.
 It combines a clean, modern frontend with an AI-driven Python backend to create meaningful, empathetic digital conversations.
 
-[![Live Website](https://img.shields.io/badge/Visit-Friendix.ai-blue?style=for-the-badge)](https://friendix-ai.onrender.com)
+
 
 💡 Stack: HTML · CSS · JavaScript · Python (Flask) · Render Hosting
 🧩 Category: AI Chat · Companion App · Conversational AI
@@ -60,7 +60,7 @@ Hosting	Render
 AI Core	OpenAI / Custom Conversational Logic
 🚀 Live Demo
 
-🔗 https://friendix-ai.onrender.com
+[![Live Website](https://img.shields.io/badge/Visit-Friendix.ai-blue?style=for-the-badge)](https://friendix-ai.onrender.com)
 
 Try chatting with Friendix — your AI friend who truly cares about you 💖
 
