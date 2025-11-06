@@ -1,7 +1,15 @@
-# Friendix-ai
-Your AI Friend Who Truly Cares — Friendix.ai is an AI companion built with Python &amp; HTML.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhanush-business/Friendix.ai/main/web/logo.png" alt="Friendix.ai Logo" width="120"/>
+</p>
 
-Your AI Friend Who Truly Cares 🤖💬
+<h1 align="center">Friendix.ai</h1>
+
+<p align="center">
+  <a href="https://friendix-ai.onrender.com">
+    <img src="https://img.shields.io/badge/Visit%20Website-Friendix.ai-blue?style=for-the-badge">
+  </a>
+</p>
+
 Friendix.ai is an intelligent, emotion-aware companion designed to connect, comfort, and communicate with people in a more human way.
 It combines a clean, modern frontend with an AI-driven Python backend to create meaningful, empathetic digital conversations.
 
