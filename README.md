@@ -5,9 +5,7 @@ Your AI Friend Who Truly Cares 🤖💬
 Friendix.ai is an intelligent, emotion-aware companion designed to connect, comfort, and communicate with people in a more human way.
 It combines a clean, modern frontend with an AI-driven Python backend to create meaningful, empathetic digital conversations.
 
-🌐 Live Website: https://friendix-ai.onrender.com
-
-📦 Repository: https://github.com/dhanush-business/Friendix.ai
+[![Live Website](https://img.shields.io/badge/Visit-Friendix.ai-blue?style=for-the-badge)](https://friendix-ai.onrender.com)
 
 💡 Stack: HTML · CSS · JavaScript · Python (Flask) · Render Hosting
 🧩 Category: AI Chat · Companion App · Conversational AI
